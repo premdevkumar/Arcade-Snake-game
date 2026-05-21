@@ -1,0 +1,8 @@
+{
+  "name": "Neon Arcade player",
+  "description": "A dark neon synthwave app combining a music player with a classic Snake game",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
